@@ -1,0 +1,38 @@
+# Maven
+/target/
+*.iml
+.idea/
+.idea_modules/
+.mvn/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+
+# Compiled files
+*.class
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Mac OSX files
+.DS_Store
+
+# Windows thumbnail files
+Thumbs.db
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
+.factorypath
